@@ -1,0 +1,72 @@
+
+//sidebar
+$menuBg:#304156 !default;
+$subMenuBg:#1f2d3d !default;
+$menuHover:#001528 !default;
+
+/* svg-icons */
+$V--svg-icons-item-color: #ccc;
+
+/* permission-directive */
+$V--permission-directive-alert-back: #1cf7ac;
+$V--permission-directive-alert: #90B08F;
+$V--permission-directive-tag: #1cf7ac;
+
+/* login */
+$V--login-el-input-textfill: #1cf7ac;
+$V--login-light-color: #1cf7ac; //
+$V--login-dark-color: #90a4ae; //
+$V--login-darkGrey: #ccc; //
+$V--login-el-from-border: rgba(255, 255, 255, 0.54);
+$V--login-el-from-back: rgba(0, 0, 0, 0.26);
+$V--login-el-from-color: #90a4ae;
+$V--login-title-language: #1cf7ac;
+$V--login-tips-color: #1cf7ac;
+
+/* social-sign */
+$V--social-sign-icon: #1cf7ac;
+$V--social-sign-wx-svg: #90B08F;
+$V--social-sign-qq-svg: #6BA2D6;
+
+/* tags-view */
+$V--tags-view-wrapper-border-color: #d8dce5 !default;
+$V--tags-view-wrapper-box-shadow-1: rgba(0, 0, 0, .12) !default;
+$V--tags-view-wrapper-box-shadow-2: rgba(0, 0, 0, .04) !default;
+$V--tags-view-wrapper-item-color: #495060 !default;
+$V--tags-view-wrapper-item-border-color: #d8dce5 !default;
+$V--tags-view-wrapper-item-background-color: #fff !default;
+$V--tags-view-wrapper-item-color-active: #fff !default;
+$V--tags-view-wrapper-item-border-color-active: #42b983 !default;
+$V--tags-view-wrapper-item-background-color-active: #42b983 !default;
+$V--tags-view-wrapper-item-background-color-active-before: #fff !default;
+$V--tags-view-wrapper-item-el-icon-close-hover-background-color: #b4bccc !default;
+$V--tags-view-wrapper-item-el-icon-close-hover-color: #fff !default;
+$V--tags-view-contextmenu-color: #333 !default;
+$V--tags-view-contextmenu-background-color: #fff !default;
+$V--tags-view-contextmenu-box-shadow-color: rgba(0, 0, 0, .3) !default;
+$V--tags-view-contextmenu-li-hover-background-color: #eee !default;
+
+/* mixin-demo */
+$V--tags-view-mixin-demo-background-color: #f0f2f5 !default;
+
+/* layout */
+$V--tags-view-layout-mobile-background-color: #000 !default;
+
+/* error-page401 */
+$V--tags-view-error-page401-back-btn-color: #fff !default;
+$V--tags-view-error-page401-back-btn-background-color: #008489 !default;
+$V--tags-view-error-page401-title-jumbo-color: #484848 !default;
+$V--tags-view-error-page401-list-unstyled-a-color: #008489 !default;
+
+/* error-page404 */
+$V--tags-view-error-page404-background-color: #f0f2f5 !default;
+$V--tags-view-error-page401-error-help-opps-color: #1482f0 !default;
+$V--tags-view-error-page401-error-help-headline-color: #1482f0 !default;
+$V--tags-view-error-page401-error-help-info-color: #1482f0 !default;
+$V--tags-view-error-page401-error-help-return-home-background-color: #1482f0 !default;
+$V--tags-view-error-page401-error-help-return-home-color: #ffffff !default;
+
+/* drag-kanban-demo */
+$V--drag-kanban-demo-item-todo-header-background-color: #4A9FF9 !default;
+$V--drag-kanban-demo-item-working-header-background-color: #f9944a !default;
+$V--drag-kanban-demo-item-done-header-background-color: #2ac06d !default;
